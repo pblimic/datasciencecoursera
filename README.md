@@ -24,6 +24,7 @@ Data Cook Book
 each row is the average of attributes for each activity and each subject.
 
 'data.frame':	180 obs. of  68 variables:
+
  $ Activity                   : chr  "LAYING" "SITTING" "STANDING" "WALKING" ...
  
  $ Subject                    : num  1 to 30
