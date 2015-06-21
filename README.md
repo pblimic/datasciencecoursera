@@ -21,6 +21,8 @@ Aggretation is used to create this new data frame with means for each Activity a
 
 Data Cook Book
 
+each row is the average of attributes for each activity and each subject.
+
 'data.frame':	180 obs. of  68 variables:
  $ Activity                   : chr  "LAYING" "SITTING" "STANDING" "WALKING" ...
  
